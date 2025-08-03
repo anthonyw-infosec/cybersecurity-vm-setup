@@ -110,13 +110,13 @@ Documentation of all tools installed on my Blue Team-focused Ubuntu ARM virtual 
 
 ## 📁 Directory Structure Used
 
+```
 ~/cyber-labs/
-├── tools/ ← Manual installs or downloads
-├── logs/ ← Saved log outputs for analysis
-├── scripts/ ← Custom bash/Python tools
-└── notes/ ← Markdown files & study notes
-
-
+├── tools/         ← Manual installs or downloads  
+├── logs/          ← Saved log outputs for analysis  
+├── scripts/       ← Custom bash/Python tools  
+└── notes/         ← Markdown files & study notes  
+```
 ---
 
 ## 📌 Notes
