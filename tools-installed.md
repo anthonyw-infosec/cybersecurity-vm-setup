@@ -110,3 +110,21 @@ Documentation of all tools installed on my Blue Team-focused Ubuntu ARM virtual 
 
 ## 📁 Directory Structure Used
 
+~/cyber-labs/
+├── tools/ ← Manual installs or downloads
+├── logs/ ← Saved log outputs for analysis
+├── scripts/ ← Custom bash/Python tools
+└── notes/ ← Markdown files & study notes
+
+---
+
+## 📌 Notes
+
+- Most tools were installed using `apt`, except Burp Suite (.jar)
+- Snapshots were created at critical setup points (highly recommended)
+- The VM is ARM64-based, which sometimes limits x86-compatible tools
+- Future additions will include custom scripts, monitoring rules, and log filters
+
+---
+
+**Last updated**: August 2025  
